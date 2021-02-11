@@ -15,7 +15,7 @@ En este repositorio se describen ciertos aspectos fundamentales de como utilizar
 A continuación se describen los requisitos mínimos para poder jugar con Starcraft. 
 
 * Sistema operativo: Mac o Windows. Es posible utilizar Linux pero la interfaz gráfica puede no funcionar por lo que no podríamos ver como está funcionando nuestro jugador. 
-* Memoría Ram: 8 Gbs de memoria ram.
+* Memoría Ram: 8 Gbs de memoria RAM.
 * Espacio: 30 Gigas de espacio para la instalación de StarCraft. 
 * Conexión a internet.
 
