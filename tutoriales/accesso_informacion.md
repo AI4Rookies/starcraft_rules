@@ -31,7 +31,7 @@ Que es un diccionario que nos permite acceder a los diferentes conjuntos de dato
 *  upgrades
 *  available_actions
 
-Donde las propiedades más importantes son: (1) feature_screen que nos ofrece información sobre la pantalla del juego; (2) feature_minimap que nos ofrece información sobre el minimapa y (3) player que nos ofrece información sobre nuestro jugador. Por ejemplo si quisieramos mostrar la información del jugador deberiamos incluir el siguiente fragmento de código:
+Donde las propiedades más importantes son: (1) feature_screen que nos ofrece información sobre la pantalla del juego; (2) feature_minimap que nos ofrece información sobre el minimapa; (3) available_actions que nos indica las acciones que podemos realizar y (4) player que nos ofrece información sobre nuestro jugador. Por ejemplo si quisieramos mostrar la información del jugador deberiamos incluir el siguiente fragmento de código:
 
 ```
 info = obs.observation["player"]
