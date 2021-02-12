@@ -8,7 +8,8 @@ En este repositorio se describen ciertos aspectos fundamentales de como utilizar
 
 * Tutorial 1: [Instalación del entorno](./tutoriales/instalacion.md)
 * Tutorial 2: [Creación del jugador](./tutoriales/players.md)
-* Tutorial 3: [Recogiendo información del entorno](./tutoriales/information.md)
+* Tutorial 3: [Recogiendo información del entorno](./tutoriales/accesso_informacion.md)
+* Tutorial 4: [Realizando acciones con el jugador](./tutoriales/utilizacion_de_acciones.md)
 
 ## Requisitos mínimos
 
